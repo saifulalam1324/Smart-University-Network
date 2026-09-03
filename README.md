@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Picture/MY3.gif" width="100%" height="100%"/>
+  <img src="Smart_university_network.png" width="100%" height="100%"/>
 </p>
 # Smart University Network 🎓
 
